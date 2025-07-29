@@ -63,8 +63,6 @@ The dataset includes customer and sales-related information and helps to answer 
 
 ---
 
-## 📂 License
-This project is open-source and free to use for educational and learning purposes.
 
 
 
