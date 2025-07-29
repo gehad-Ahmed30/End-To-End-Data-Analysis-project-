@@ -58,9 +58,6 @@ The dataset includes customer and sales-related information and helps to answer 
      - Review and rating distributions
      - Discount patterns
 
-5. **Project Deployment**
-   - Uploaded all scripts, dashboards, and datasets to GitHub for sharing and showcasing
-
 ---
 
 
