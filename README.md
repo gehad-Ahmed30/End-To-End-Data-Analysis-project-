@@ -1,5 +1,13 @@
 # End-To-End Data Analysis Project 📊
 
+## Snapshots
+
+| Dashboard 1 - Shipping & Review | Dashboard 2 - Customer Analysis |
+|-------------------------------|-------------------------------|
+| ![Shipping & Review](./Page1.png) | ![Customer Analysis](./Page2.png) |
+
+---
+
 ## Overview
 This project represents a complete **end-to-end data analysis** pipeline. It starts from **loading the dataset from a SQL database**, performing **data cleaning and preprocessing in Python**, and finally building **interactive dashboards using Power BI** to derive insights.
 
@@ -55,13 +63,6 @@ The dataset includes customer and sales-related information and helps to answer 
 
 ---
 
-## Snapshots
-
-| Dashboard 1 - Shipping & Review | Dashboard 2 - Customer Analysis |
-|-------------------------------|-------------------------------|
-| ![Shipping & Review](./Page1.png) | ![Customer Analysis](./Page2.png) |
-
----
 
 
 
