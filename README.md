@@ -59,7 +59,7 @@ The dataset includes customer and sales-related information and helps to answer 
 
 | Dashboard 1 - Customer Analysis | Dashboard 2 - Shipping & Review |
 |-------------------------------|-------------------------------|
-| ![Customer Analysis](./screenshots/Page1.png) | ![Shipping Review](./screenshots/shipping_review.png) |
+| ![Customer Analysis](./Page1.png) | ![Shipping Review](./screenshots/shipping_review.png) |
 
 ---
 
